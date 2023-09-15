@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 255, 234);
+}
+.hehe{
+    float: left;
+    position: relative;
+    margin-top: -4%;
+}
+.score{
+    float: right;
+    margin-top: -12.7%;
+}
+.tap-tap{
+    margin-top: 90px;
+    width: 50%;
+    height: 200px;
+    background-color: rgb(169, 218, 201);
+    border-radius: 20px;
+}
